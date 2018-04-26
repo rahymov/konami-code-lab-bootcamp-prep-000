@@ -5,4 +5,5 @@ function init() {
   
   const ky = parseInt(e.detail) ;
   
+  document.body.addEventListener
 }
