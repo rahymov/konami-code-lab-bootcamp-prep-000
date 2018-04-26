@@ -5,6 +5,7 @@ function init() {
   document.body.addEventListener('keydown', function(){
     for(let i=0; i< code.length; i++ ){
       code[i] === 'keydown';
+      
       alert("Congrats u got it.");
     }
   })
