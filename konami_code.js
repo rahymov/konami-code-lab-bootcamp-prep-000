@@ -9,7 +9,7 @@ function init() {
           alert("Congrats boy");
         }
         else{
-          console.log("Oops")
+          console.log("Oops");
         }
       }
   });
