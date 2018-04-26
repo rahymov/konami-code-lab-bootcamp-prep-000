@@ -8,8 +8,5 @@ function init(e) {
     if(ky === code[i]){
       alert("Congrats");
     }
-    else{
-      
-    }
   }
 }
