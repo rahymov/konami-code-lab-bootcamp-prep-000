@@ -5,6 +5,8 @@ function init(e) {
   const ky = parseInt(e.which || e.detail) ;
   
   for(let i=0; i< code.length; i++){
-    if(ky === code[i])
+    if(ky === code[i]){
+      
+    }
   }
 }
