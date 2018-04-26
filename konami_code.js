@@ -6,7 +6,7 @@ function init(e) {
   
   for(let i=0; i< code.length; i++){
     if(ky === code[i]){
-      
+      alert("Congrats")
     }
   }
 }
