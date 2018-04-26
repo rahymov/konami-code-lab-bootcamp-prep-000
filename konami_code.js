@@ -6,7 +6,10 @@ function init() {
     const ky = parseInt(e.detail || e.which);
       for(let i=0; i< code.length; i++){
         if(ky === code[i]){
-          alert("Congrats boy")
+          alert("Congrats boy");
+        }
+        else{
+          
         }
       }
   });
